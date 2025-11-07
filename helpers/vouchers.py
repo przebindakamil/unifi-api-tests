@@ -2,6 +2,7 @@ from requests import Response
 import time
 import pytest
 
+
 def get_voucher_by_name(r: Response, name: str):
     data = r.json()
     for v in data.get("data", []):

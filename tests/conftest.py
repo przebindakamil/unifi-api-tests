@@ -32,7 +32,6 @@ def verify_ssl(config):
 
 @pytest.fixture(scope="session")
 def http(auth_header, verify_ssl):
-    """Zwraca gotową sesję z autoryzacją"""
     s = requests.Session()
     s.headers.update(auth_header)
     s.verify = verify_ssl

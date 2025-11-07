@@ -5,22 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19efdef5-bfe3-40a7-b8d0-f1e7718ce543" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uos_server_api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/uos.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/uos_test.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helpers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helpers/vouchers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_voucher_workflow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_vouchers_validation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uos_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helpers/vouchers.py" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/vouchers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_voucher_workflow.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_voucher_workflow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uos_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/uos_api.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +68,7 @@
     "Python tests.Python tests in tests_voucher_workflow.py.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Kamil/PycharmProjects/recruitment/uos_server_api/config",
     "node.js.detected.package.eslint": "true",
@@ -88,6 +76,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -208,7 +197,7 @@
       <workItem from="1762281719169" duration="8272000" />
       <workItem from="1762372829969" duration="3589000" />
       <workItem from="1762454405510" duration="6673000" />
-      <workItem from="1762536480264" duration="5932000" />
+      <workItem from="1762536480264" duration="6317000" />
     </task>
     <servers />
   </component>

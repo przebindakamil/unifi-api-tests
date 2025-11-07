@@ -1,4 +1,3 @@
-import time
 import pytest
 
 from helpers.vouchers import wait_until_list_contains, fetch_ids_by_name_with_poll
