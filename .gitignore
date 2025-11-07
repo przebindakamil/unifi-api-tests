@@ -1,0 +1,19 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.cache
+.pytest_cache/
+
+# Env / Secrets
+config/uos.yaml
+
+# OS
+.DS_Store
+Thumbs.db
